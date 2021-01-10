@@ -1,0 +1,38 @@
+body{
+  font-family: 'Langar',  sans-serif;
+  /*font-size: 28px;*/
+ 
+  
+}
+.navbar{
+	border:0px;
+	border-radius: 0px;
+}
+.navbar-brand{
+	padding:10px 40px;
+	font-size: 3vh;
+}
+.navbar-nav{
+	text-align: center;
+
+}
+#main_menu{
+	text-align: center;
+	font-weight: bold;
+	
+}
+.row{
+	padding:0px;
+	margin:0px;
+	
+}
+.c2{
+	padding:10px;
+	margin:10px;
+	border:1px solid black;
+		background-color: gray;
+}
+#heading,#heading2,#heading3{
+	text-align: center;
+	font-style: oblique;
+}
